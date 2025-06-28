@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6a6e9fc664e1c2b7","type":"text","text":"Personal site/ Portfolio/ Blog / CV","x":-280,"y":-60,"width":250,"height":60},
+		{"id":"05dd8ba13786e0b9","type":"text","text":"Use Obsidian + Quartz (edit + publish) \nhttps://www.jinggu.dev/","x":-220,"y":-220,"width":250,"height":100}
+	],
+	"edges":[
+		{"id":"fb56d343fdb1e745","fromNode":"6a6e9fc664e1c2b7","fromSide":"top","toNode":"05dd8ba13786e0b9","toSide":"bottom"}
+	]
+}
