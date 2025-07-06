@@ -1,11 +1,11 @@
-Author: Andrew Hallam
-
-Published year: 2011
-
-Genres: #Investment 
-
-Status: Done
-
+---
+title: Millionaire teacher
+author: Andrew Hallam
+year: "2011"
+tags:
+  - Investment
+finished: true
+---
 
 # The Book in 3 Sentences
 

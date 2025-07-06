@@ -1,14 +1,15 @@
-Author: Gang of four
-
-Published year: 1994
-
-Genres: #Software 
-
-Status: WIP
-
+---
+title: Design patterns
+author: Gang of four
+year: "1994"
+tags:
+  - Software
+finished:
+---
 
 # The Book in 3 Sentences
 Program to an interface, not an implementation
+
 Favour object composition over class inheritance
 
 # Top Quotes

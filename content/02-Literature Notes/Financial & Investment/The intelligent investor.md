@@ -1,11 +1,11 @@
-Author: Benjamin Graham
-
-Published year: 1949
-
-Genres: #Investment 
-
-Status: READ AGAIN
-
+---
+title: The intelligent investor
+author: Benjamin Graham
+year: "1949"
+tags:
+  - Investment
+finished: true
+---
 
 # The Book in 3 Sentences
 

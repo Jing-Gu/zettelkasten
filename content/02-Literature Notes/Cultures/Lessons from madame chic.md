@@ -1,11 +1,12 @@
-Author: Jennifer L. Scott
-
-Published year:
-
-Genres: #Culture #French
-
-Status: Done
-
+---
+title: Lessons from madame chic
+author: Jennifer L. Scott
+year: "2011"
+tags:
+  - Culture
+  - French
+finished: true
+---
 
 # The Book in 3 Sentences
 

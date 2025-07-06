@@ -1,5 +1,5 @@
 
-One of the most effective strategies you can employ for breaking down complicated problems and generating original solutions.
+It is one of the most effective strategies you can employ for breaking down complicated problems and generating original solutions.
 
 The idea comes from **Aristotle**, who said a _"first principle"_ is a basic assumption that **cannot be deduced from anything else**.
 

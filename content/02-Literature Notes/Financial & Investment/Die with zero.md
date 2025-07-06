@@ -1,4 +1,12 @@
-#Book #Investment 
+---
+title: Die with zero
+author: Bill Perkins
+year: "2020"
+tags:
+  - Investment
+  - Self-improvement
+finished: true
+---
 
 Saving and investing are important, but those are not the only goal in the life.
 

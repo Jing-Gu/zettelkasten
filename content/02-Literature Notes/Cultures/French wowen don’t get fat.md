@@ -1,20 +1,19 @@
-Author: French wowen don’t get fat
-
-Published year:
-
-Genres: #Culture #French 
-
-Status: Done
-
-
-# The Book in 3 Sentences
-
+---
+title: French women don’t get fat
+author: Mireille Guiliano
+year: "2004"
+tags:
+  - Culture
+  - French
+finished: true
+---
 
 # Top Quotes
 
 Quality is a passion, even a compulsion.
 
 Bien dans sa peau.
+
 # Summary & Reflection
 
 Life stages

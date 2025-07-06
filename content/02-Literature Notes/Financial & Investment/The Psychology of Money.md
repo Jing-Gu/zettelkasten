@@ -1,11 +1,11 @@
-Author: Morgan Housel
-
-Published year: 2020
-
-Genres: #Investment 
-
-Status: Done
-
+---
+title: The Psychology of Money
+author: Morgan Housel
+year: "2020"
+tags:
+  - Investment
+finished: true
+---
 
 # The Book in 3 Sentences
 

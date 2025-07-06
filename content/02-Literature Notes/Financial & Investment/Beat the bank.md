@@ -1,11 +1,11 @@
-Author: Larry Bates
-
-Published year: 2018
-
-Genres: #Investment 
-
-Status: Done
-
+---
+title: Beat the bank
+author: Larry Bates
+year: "2018"
+tags:
+  - Investment
+finished: true
+---
 
 # The Book in 3 Sentences
 

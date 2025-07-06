@@ -1,11 +1,11 @@
-Author:
-
-Published year:
-
-Genres: 
-
-Status: Started / WIP / Done
-
+---
+title: 
+author: 
+year: 
+tags: 
+finished:
+---
+---
 
 # The Book in 3 Sentences
 

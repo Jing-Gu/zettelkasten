@@ -1,11 +1,11 @@
-Author: Robert Kyosaki
-
-Published year: 1997
-
-Genres: #Investment 
-
-Status: Done
-
+---
+title: Rich dad Poor dad
+author: Robert Kyosaki
+year: "1997"
+tags:
+  - Investment
+finished: true
+---
 
 # The Book in 3 Sentences
 

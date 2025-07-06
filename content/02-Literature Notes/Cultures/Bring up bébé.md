@@ -1,17 +1,13 @@
-Author: Pamela Druckerman
-
-Published year:
-
-Genres: #Culture #French #Parenting
-
-Status: Done
-
-
-# The Book in 3 Sentences
-
-
-# Top Quotes
-
+---
+title: Bring up bébé
+author: Pamela Druckerman
+year: "2012"
+tags:
+  - Culture
+  - French
+  - Parenting
+finished: true
+---
 
 # Summary & Reflection
 

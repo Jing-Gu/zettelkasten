@@ -1,11 +1,12 @@
-Author: Sönke Ahrens
-
-Published year: 2017
-
-Genres: #Productivity #Self-improvement
-
-Status: DONE
-
+---
+title: How to take smart notes
+author: Sönke Ahrens
+year: "2017"
+tags:
+ - Productivity
+ - Self-improvement
+finished:
+---
 
 # The Book in 3 Sentences
 
@@ -27,7 +28,7 @@ The slip-box does not put the learner in the centre. Quite the contrary: It allo
 
 Learn by reading does not make much sense if the action is just pure reviewing, what is more important is building meaningful connections, and making sense of everything by translating into you own language, and this is indeed called "Elaboration method" - writing for leaning.
 
-Using slip box is not about storing info there instead of your head, it is to facilitate the long term learning by not scramming all facts in the brain. 
+Using slip box is not about storing info there instead of your head, it is to facilitate the long term learning by not scramming all facts in the brain.
 
 If the slip box system is my second brain, then it has very clear division there: the slip box takes care of details, references, so the real brain can focus on the deeper understanding and creativity.
 

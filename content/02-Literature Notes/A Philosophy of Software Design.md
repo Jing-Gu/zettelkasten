@@ -1,11 +1,11 @@
 ---
 title: A Philosophy of Software Design
 author: "[[John Ousterhout]]"
-Published year: "2018"
-finished: true
+year: "2018"
 tags:
   - CS
   - Software
+finished: true
 ---
 
 # The Book in 3 Sentences
@@ -16,6 +16,7 @@ tags:
 - Design it twice
 - Good names avoid unintentional bugs
 - Write comments first, better documentation and better design
+
 # Top Quotes
 
 The most fundamental problem in computer science is **problem decomposition**: how to take a complex problem and divide it up into pieces that can be solved independently. (Same idea seeing in [[Design patterns (Gang of four)]] that decomposing a system into objects is hard).
@@ -37,7 +38,7 @@ Complexity is anything related to the structure of a software system that makes 
 Complexity is caused by two things: dependencies and obscurity.
 
 ## Modular design
-Modular design helps reducing the complexity because decomposing the software system into independent modules expose only a fraction of complexity to developers. 
+Modular design helps reducing the complexity because decomposing the software system into independent modules expose only a fraction of complexity to developers.
 
 The goal of modular design is to minimize the **dependencies** between modules. Modules can take different forms, such as classes or services. Each module has two parts: interface and implementation. **So a module is any unit of code that has an interface and an implementation**.
 

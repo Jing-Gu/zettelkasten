@@ -1,11 +1,13 @@
-Author: Keith Payne
-
-Published year: 2017
-
-Genres: #Social #Political #Psychology
-
-Status: Done
-
+---
+title: The Broken Ladder
+author: Keith Payne
+year: "2017"
+tags:
+  - Social
+  - Political
+  - Psychology
+finished: true
+---
 
 # The Book in 3 Sentences
 
