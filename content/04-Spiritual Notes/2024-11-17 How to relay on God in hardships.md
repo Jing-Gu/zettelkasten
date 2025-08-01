@@ -2,8 +2,9 @@
 title: How to relay on God in hardships?
 bible chapter: Acts 12 (1-24)
 date: 2024-11-17
+tags:
+  - Prayer
 ---
-#Prayer 
 
 **So Peter was kept in prison, but the church was earnestly praying to God for him.** (Acts 12:5 NIV)
 

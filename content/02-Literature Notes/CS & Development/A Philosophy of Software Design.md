@@ -3,7 +3,6 @@ title: A Philosophy of Software Design
 author: "[[John Ousterhout]]"
 year: "2018"
 tags:
-  - CS
   - Software
 finished: true
 ---

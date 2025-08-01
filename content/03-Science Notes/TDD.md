@@ -1,3 +1,4 @@
+
 [[John Ousterhout]], author of [[A Philosophy of Software Design]], sharply points to the problem of TTD, doing so is basically debugging your system, not designing at all. By focusing on passing test one by one, there is no more design and finally will lead to very bad design. However he is a big fan of unit test, he does white box test (not black box).
 
 What is unit test?

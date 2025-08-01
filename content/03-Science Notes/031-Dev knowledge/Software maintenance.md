@@ -1,9 +1,4 @@
 #Software #Maintenance
-### What counts as maintenance?
-
-- bug fixes (aka corrective maintenance, especially after release)
-- adapt to env changes (aka adaptive maintenance, such as version changes, tool, etc)
-- preventive maintenance (better handle version breaks, things outside the software will change)
 
 ### The software lifecycle
 

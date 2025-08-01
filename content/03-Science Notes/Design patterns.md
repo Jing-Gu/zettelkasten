@@ -62,3 +62,60 @@ Inheritance means creating a new class by extending another one. Composition mea
 |Forces hierarchy|Encourages reusable, flat structure|
 
 For example, if many classes need pagination feature, instead of extending from `PaginatedComponent` (problem is only possible to extend one class), what if they need sortable behaviour. Instead, extract the logics into a pagination service and inject it into components, possible to reuse across many components. 
+
+# Creational design pattern
+
+## Factory pattern
+Defines an interface for creating objects in a superclass, but allows subclasses to decide which class to instantiate.
+```typescript
+abstract class Car {
+	constructor(
+		public model: string,
+		public productionYear: number
+	){}
+
+	abstract displayCarInfo(): void;
+	// the abstract displayCarInfo allows subclasses to implement its own method
+}
+
+class Sedan extends Car {
+	public displayCarInfo(): void {
+		console.log(`Sedan. Model: ${this.model}, Production year: ${this.productionYear}`)
+	}
+}
+
+class Hatchback extends Car {
+	public displayCarInfo(): void {
+		console.log(`Hatchback. Model: ${this.model}, Production year: ${this.productionYear}`)
+	}
+}
+```
+
+```typescript
+class CarFactory {
+	public createCar(type: "sedan" | "hatchback", model: string, productionYear: number): Car {
+		switch(type) {
+			case "sedan":
+				return new Sedan(model, productionYear);
+			case "hatchback":
+				return new Hatchback(model, productionYear);
+			default:
+				throw new Error("invalid");
+		}
+	}
+}
+
+const carFactory = new CarFactory();
+const sedan = carFactory.createCar("sedan", "Camry", 2023);
+const hatchback = carFactory.createCar("hatchback", "Corolla", 2023);
+```
+
+### When to use factory pattern ?
+Often used when a class cannot anticipate the type of objects it needs to create. If you are dealing with a large number of classes that share a common superclass and you often need to instantiate one of these classes.
+Pluggable for end users, all to know is just a factory class `CarFactory`, no need to know the Sedan class or Hatchback class etc.
+Hide the complexity of object creation.
+
+### When to favour factory more than interface ?
+An abstract class has constructor and the interface does not have. If `Car` is just an interface, will have to repeat the Car constructor in all subclasses
+## Abstract factory pattern
+Provides an interface for creating families of related or dependent objects without specifying their concrete classes

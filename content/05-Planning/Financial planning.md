@@ -15,3 +15,8 @@ Clean energy ETF
 **Energy ETFs** are better for **growth-oriented investors** who can handle **volatility** and want exposure to **commodity cycles**.
 
 See the chart of XUT and XEG, the energy ETF is so much more cyclical and volatile. 
+
+# Strategy
+- **TFSA** = Canadian equity (XEI, VCN, XIC, etc.)
+    
+- **RRSP** = Foreign equity (U.S. + international) for **maximum tax efficiency** (**avoid 15% U.S. dividend withholding tax**)

@@ -11,14 +11,14 @@ Being one of the programming paradigms, OOP is the clear tool for the architectu
 Use Model-driven design and domain-driven design to understand:
 How object-modelers are able to encapsulate an entire business in a zero-dependency domain model.
 
-# Design principles
+# [[Design principles]]
 With OOP under the belt, design principles help to decide when to use inheritance, when to use abstract class etc.
 Design principles are well-established best practices, such as SOLID.
 
 # [[Design patterns]]
 Almost all software problems have been solved and categorized, those are called patterns.
 3 categories of design patterns: **creational**, **structural**, and **behaviour**. [[Design patterns (Gang of four)]]
-Head first design pattern (always heard)
+
 
 # Architectural principle 
 From here, higher level thinking beyond the class level.

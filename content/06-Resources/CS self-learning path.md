@@ -1,4 +1,3 @@
-#Bucket-list #CS 
 
 # Great CS books
 
