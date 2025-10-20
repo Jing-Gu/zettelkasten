@@ -21,4 +21,4 @@ Fixing problems earlier in the process reduces costs and risks. This faith bring
 [[Patterns of Enterprise Application Architecture]]
 
 ## References
-[[CS self-learning path]]
+[[CS learning path]]

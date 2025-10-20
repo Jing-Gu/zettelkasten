@@ -2,6 +2,8 @@
 title: Jesus and the end times
 bible chapter: Matthew 24&25
 date: 2025-09-07
+tags:
+  - End_times
 ---
 Context: 
 The disciples thought Jesus is about to set his early kingdom. 
@@ -17,3 +19,5 @@ Application:
 - God is in control of history. (History = His story)
 - The Bible, God's word, is completely trustworthy and reliable. So feed yourself God's word if you want to grow and be righteous.
 - Trust in and depend on Jesus. He is the only one to hope in that will never let you down
+
+End times series | Next: [[2025-09-14 Jesus and the end times]]

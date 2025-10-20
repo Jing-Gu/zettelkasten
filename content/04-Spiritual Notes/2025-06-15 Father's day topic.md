@@ -2,9 +2,10 @@
 title: Father's day topic
 bible chapter: Psalm 127
 date: 2025-06-15
+tags:
+  - Prayer
+  - Parenting
 ---
-#Prayer #Parenting 
-
 A fun fact told by pastor, biblical suggestion to husbands if they want a happy marriage, then stop making themselves happy, make your wife happy then you will be happy, guess the happy wife happy life is universally true.
 
 This society's value is eroding our children with 4 worldly views: 

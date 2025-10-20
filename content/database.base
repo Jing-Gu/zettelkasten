@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: View
+    order:
+      - file.name
+      - tags
+      - file.basename
+    cardSize: 200
+    imageFit: ""

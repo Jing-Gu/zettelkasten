@@ -1,5 +1,6 @@
 ---
-title: 
-bible chapter: 
+title:
+bible chapter:
 date:
+tags:
 ---
