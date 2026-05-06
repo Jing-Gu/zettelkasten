@@ -5,7 +5,7 @@ year: "2020"
 tags:
   - Investment
   - Self-improvement
-finished:
+finished: true
 ---
 ---
 

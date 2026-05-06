@@ -3,9 +3,9 @@ title: How to take smart notes
 author: Sönke Ahrens
 year: "2017"
 tags:
- - Productivity
- - Self-improvement
-finished:
+  - Productivity
+  - Self-improvement
+finished: true
 ---
 
 # The Book in 3 Sentences

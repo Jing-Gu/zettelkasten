@@ -22,6 +22,6 @@ Study WIP [[OSSU learning audit]]
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 - [FinTech: Shaping the Financial World](https://ocw.mit.edu/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/)
 
-[MIT open learning Macroeconomics](# [Principles of Macroeconomics](https://ocw.mit.edu/courses/14-02-principles-of-macroeconomics-spring-2023/))
+[MIT open learning Macroeconomics](https://ocw.mit.edu/courses/14-02-principles-of-macroeconomics-spring-2023/)
 
 https://www.nand2tetris.org/

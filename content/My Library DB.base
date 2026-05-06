@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("02-Literature Notes")
+    order:
+      - file.name
+      - tags
+      - finished
+      - year
+      - author
+    sort:
+      - property: year
+        direction: ASC
+    columnSize:
+      note.tags: 552

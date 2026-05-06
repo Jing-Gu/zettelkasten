@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"6a6e9fc664e1c2b7","type":"text","text":"Personal site/ Portfolio/ Blog / CV","x":-280,"y":-60,"width":250,"height":60},
-		{"id":"05dd8ba13786e0b9","type":"text","text":"Use Obsidian + Quartz (edit + publish) \nhttps://www.jinggu.dev/","x":-220,"y":-220,"width":250,"height":100}
+		{"id":"6a6e9fc664e1c2b7","type":"text","text":"Personal site/ Portfolio/ Blog / CV","x":-360,"y":-60,"width":250,"height":60},
+		{"id":"05dd8ba13786e0b9","type":"text","text":"Use Obsidian + Quartz (edit + publish) \nhttps://www.jinggu.dev/","x":-160,"y":-200,"width":250,"height":100},
+		{"id":"1d6ce4acd65d465f","x":-610,"y":100,"width":250,"height":169,"type":"text","text":"Geeky but elegant website:\nUse its font Roboto mono\nhttps://python-for-finance.com/\nhttps://hilpisch.com/"}
 	],
 	"edges":[
-		{"id":"fb56d343fdb1e745","fromNode":"6a6e9fc664e1c2b7","fromSide":"top","toNode":"05dd8ba13786e0b9","toSide":"bottom"}
+		{"id":"fb56d343fdb1e745","fromNode":"6a6e9fc664e1c2b7","fromSide":"top","toNode":"05dd8ba13786e0b9","toSide":"bottom"},
+		{"id":"e1b2f3d959e07fda","fromNode":"1d6ce4acd65d465f","fromSide":"top","toNode":"6a6e9fc664e1c2b7","toSide":"bottom"}
 	]
 }
